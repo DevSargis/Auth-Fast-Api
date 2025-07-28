@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+clerk-sdk
+httpx
+asyncpg
+sqlalchemy
+python-dotenv 
+cryptography
+pytest
+pytest-asyncio
+httpx
+PyJWT
+python-json-logger
